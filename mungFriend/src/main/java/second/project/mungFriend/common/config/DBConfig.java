@@ -18,7 +18,6 @@ import com.zaxxer.hikari.HikariDataSource;
 
 @Configuration // @Configuration : 구성
 // 스프링 어플리케이션을 구성하기 위한 설정용 Bean 생성 클래스 (예전에 xml -> class 로 변경한것..) 
-
 @PropertySource("classpath:/config.properties")
 public class DBConfig {
 
