@@ -44,6 +44,7 @@ public class DBConfig {
 		}
 		
 		
+		
 		////////////////////////////Mybatis 설정 추가 ////////////////////////////
 		//SqlSessionFactory : SqlSession을 만드는 객체
 		@Bean
